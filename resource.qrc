@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.png</file>
+        <file>bone.png</file>
+        <file>catbullet.png</file>
+        <file>corgi.png</file>
+        <file>corgibutt.png</file>
+        <file>deck.png</file>
+        <file>doghouse.png</file>
+        <file>gameboard.png</file>
+        <file>lose.png</file>
+        <file>win.png</file>
+        <file>../Desktop/artillery.png</file>
+        <file>../Desktop/background.png</file>
+        <file>../Desktop/bone.png</file>
+        <file>../Desktop/catbullet.png</file>
+        <file>../Desktop/corgi.png</file>
+        <file>../Desktop/corgibutt.png</file>
+        <file>../Desktop/deck.png</file>
+        <file>../Desktop/doghouse.png</file>
+        <file>../Desktop/gameboard.png</file>
+        <file>../Desktop/lose.png</file>
+        <file>../Desktop/win.png</file>
+    </qresource>
+</RCC>

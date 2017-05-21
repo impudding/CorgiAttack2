@@ -1,0 +1,9 @@
+#include"corgibutt.h"
+
+Minion::Minion()
+{
+    QTimer *timer = new QTimer();
+    connect(timer,SIGNAL(timeout()),this,SLOT(shoot()));
+    timer->start(50);
+}
+

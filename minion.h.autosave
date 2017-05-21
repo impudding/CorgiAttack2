@@ -1,0 +1,18 @@
+#ifndef MINION_H
+#define MINION_H
+
+#include<QGraphicsPixmapItem>
+#include<QObject>
+
+class Minion :public QObject,public QGraphicsPixmapItem{
+  
+    Q_OBJECT
+
+public:
+    int health,att_point;
+
+public slots:
+    void attack();    
+};
+
+#endif // MINION_H
